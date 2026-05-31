@@ -1,0 +1,7 @@
+Scenario,Noise,TTS (veh·h),TWT (veh·h),Min Speed (km/h),Queue Violation,Total Reward,Mean computation time [s],Max computation time [s]
+Demand 1,Low,1407.47,344.17,13.77,38.79,-,0.82,1.72 
+Demand 1,Medium,1400.39,356.99,12.88,34.82,-,0.79,1.84 
+Demand 1,High,1441.28,344.65,13.97,44.82,-,0.89,2.43 
+Demand 2,Low,1303.80,235.57,16.70,3.68,-,0.74,1.53 
+Demand 2,Medium,1308.30,238.09,15.87,9.66,-,0.81,1.87 
+Demand 2,High,1296.31,233.94,16.07,10.48,-,0.82,1.92

@@ -1,0 +1,150 @@
+# To be filled by the author(s) at the time of submission
+# -------------------------------------------------------
+
+# Title of the article:
+#  - For a successful replication, it shoudl be prefixed with "[Re]"
+#  - For a failed replication, it should be prefixed with "[¬Re]"
+#  - For other article types, no instruction (but please, not too long)
+title: "[Re] A Novel Framework Combining MPC and Deep Reinforcement Learning With Application to Freeway Traffic Control"
+
+# List of authors with name, orcid number, email and affiliation
+# Affiliation "*" means contact author
+authors:
+  - name: Alessandro Bertelli
+    orcid: 0009-0001-0818-5703
+    email: abertelli@ethz.ch
+    affiliations: 1,2,3
+    
+  - name: Kevin Riehl
+    orcid: 0000-0003-4620-8379
+    email: kriehl@ivt.baug.ethz.ch
+    affiliations: 4,*      # * is for contact author
+    
+  - name: Qiaosen Li
+    orcid: 0009-0007-4810-799X
+    email: qiaosen.li@ivt.baug.ethz.ch
+    affiliations: 4    
+    
+  - name: Anastasios Kouvelas
+    orcid: 0000-0003-4571-2530
+    email: kouvelas@ethz.ch
+    affiliations: 4   
+
+  - name: Michail A. Makridis
+    orcid: 0000-0001-7462-4674
+    email: mmakridis@ethz.ch
+    affiliations: 4  
+    
+# List of affiliations with code (corresponding to author affiliations), name
+# and address. You can also use these affiliations to add text such as "Equal
+# contributions" as name (with no address).
+affiliations:
+  - code:    1
+    name:    Politecnico di Milano 
+    address: Milan, Italy
+    
+  - code:    2
+    name:    KTH Royal Institute of Technology
+    address: Stockholm, Sweden
+    
+  - code:    3
+    name:    ETH Zurich
+    address: Zurich, Switzerland
+    
+  - code:    4
+    name:    ETH Zurich, Institute for Transport Planning and Systems, IVT Group
+    address: Zurich, Switzerland
+    
+  #- code:    5
+  #  name:    Institut des Maladies Neurodégénératives, Université  de Bordeaux,
+  #           Centre National de la Recherche Scientifique, UMR 5293
+  #  address: Bordeaux, France
+
+# List of keywords (adding the programming language might be a good idea)
+keywords: ramp metering, deep reinforcement learning, model predictive control, freeway traffic control, traffic flow theory, simulation, SUMO, Python, TensorFlow, PyTorch, MPC, DRL
+
+# Code URL and DOI (url is mandatory for replication, doi after acceptance)
+# You can get a DOI for your code from Zenodo,
+#   see https://guides.github.com/activities/citable-code/
+code:
+  - url: https://github.com/DerKevinRiehl/replication_ramp_metering_rl_2024_sunetal
+  - doi: 
+
+# Date URL and DOI (optional if no data)
+data:
+  - url:
+  - doi:
+
+# Information about the original article that has been replicated
+replication:
+ - cite: "Sun, Dingshan, Anahita Jamshidnejad, and Bart De Schutter. \"A novel framework combining MPC and deep reinforcement learning with application to freeway traffic control.\" IEEE Transactions on Intelligent Transportation Systems 25.7 (2024): 6756-6769." #Cite the paper you are replicating (if any)
+ - bib:  # Bibtex key (if any) in your bibliography file
+ - url:  "https://ieeexplore.ieee.org/iel7/6979/4358928/10379486.pdf" # URL to the PDF, try to link to a non-paywall version
+ - doi:  "https://doi.org/10.1109/TITS.2023.3342651" # Regular digital object identifier
+
+# Don't forget to surround abstract with double quotes
+abstract: "Three years have passed since ReScience published its first article
+           and since September 2015, things have been going steadily. We're
+           still alive, independent and without a budget. In the meantime, we
+           have published around 20 articles (mostly in computational
+           neuroscience & computational ecology) and the initial has grown
+           from around 10 to roughly 100 members (editors and reviewers), we
+           have advertised ReScience at several conferences worldwide, gave
+           some interviews and we published an article introducing ReScience in
+           PeerJ. Based on our experience at managing the journal during these
+           three years, we think the time is ripe for proposing some changes."
+
+# Bibliography file (yours)
+bibliography: bibliography.bib
+  
+# Type of the article
+# Type can be:
+#  * Editorial
+#  * Letter
+#  * Replication
+type: Replication
+
+# Scientific domain of the article (e.g. Computational Neuroscience)
+#  (one domain only & try to be not overly specific)
+domain: Transportation Science
+
+# Coding language (main one only if several)
+language: Python
+
+  
+# To be filled by the author(s) after acceptance
+# -----------------------------------------------------------------------------
+
+# For example, the URL of the GitHub issue where review actually occured
+review: 
+  - url: 
+
+contributors:
+  - name: Alessandro Bertelli
+    orcid: 0009-0001-0818-5703
+    role: editor
+  - name:
+    orcid:
+    role: reviewer
+  - name:
+    orcid:
+    role: reviewer
+
+# This information will be provided by the editor
+dates:
+  - received:  May 31, 2026
+  - accepted:
+  - published: 
+
+# This information will be provided by the editor
+article:
+  - number: # Article number will be automatically assigned during publication
+  - doi:    # DOI from Zenodo
+  - url:    # Final PDF URL (Zenodo or rescience website?)
+
+# This information will be provided by the editor
+journal:
+  - name:   "ReScience C"
+  - issn:   2430-3658
+  - volume: 4
+  - issue:  1

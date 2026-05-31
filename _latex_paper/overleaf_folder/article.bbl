@@ -1,0 +1,754 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{sun2024novel}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f105f73e13aa60be1a1e16d5e164d424}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Dingshan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1b45e85ad310fd0d65053f1a343d3aa8}{%
+           family={Jamshidnejad},
+           familyi={J\bibinitperiod},
+           given={Anahita},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3aa279196551f6d4f6429776156250b6}{%
+           family={De\bibnamedelima Schutter},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Bart},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3e905ecfb64ce0e6d92fbbe32a88f3a8}
+      \strng{fullhash}{3e905ecfb64ce0e6d92fbbe32a88f3a8}
+      \strng{fullhashraw}{3e905ecfb64ce0e6d92fbbe32a88f3a8}
+      \strng{bibnamehash}{3e905ecfb64ce0e6d92fbbe32a88f3a8}
+      \strng{authorbibnamehash}{3e905ecfb64ce0e6d92fbbe32a88f3a8}
+      \strng{authornamehash}{3e905ecfb64ce0e6d92fbbe32a88f3a8}
+      \strng{authorfullhash}{3e905ecfb64ce0e6d92fbbe32a88f3a8}
+      \strng{authorfullhashraw}{3e905ecfb64ce0e6d92fbbe32a88f3a8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Intelligent Transportation Systems}
+      \field{number}{7}
+      \field{title}{A novel framework combining MPC and deep reinforcement learning with application to freeway traffic control}
+      \field{volume}{25}
+      \field{year}{2024}
+      \field{pages}{6756\bibrangedash 6769}
+      \range{pages}{14}
+    \endentry
+    \entry{Kaelbling1996Survey}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=0bf25a24f49af5c83d08966e17941417}{%
+           family={Kaelbling},
+           familyi={K\bibinitperiod},
+           given={L.\bibnamedelimi P.},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=352da7ce0de499b5d902333a3af53e06}{%
+           family={Littman},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3a0e422c2af3516bd3a2f5a6f04fbb10}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bb1da5e8fe51882f3a1a7517caf35f4}
+      \strng{fullhash}{8bb1da5e8fe51882f3a1a7517caf35f4}
+      \strng{fullhashraw}{8bb1da5e8fe51882f3a1a7517caf35f4}
+      \strng{bibnamehash}{8bb1da5e8fe51882f3a1a7517caf35f4}
+      \strng{authorbibnamehash}{8bb1da5e8fe51882f3a1a7517caf35f4}
+      \strng{authornamehash}{8bb1da5e8fe51882f3a1a7517caf35f4}
+      \strng{authorfullhash}{8bb1da5e8fe51882f3a1a7517caf35f4}
+      \strng{authorfullhashraw}{8bb1da5e8fe51882f3a1a7517caf35f4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Artificial Intelligence Research}
+      \field{title}{Reinforcement Learning: A Survey}
+      \field{volume}{4}
+      \field{year}{1996}
+      \field{pages}{237\bibrangedash 285}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1613/jair.301
+      \endverb
+    \endentry
+    \entry{Busoniu2018RLControl}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=4787a9b4dd45b41704a53ad6c6b35dcd}{%
+           family={Buşoniu},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e6793dff1cb4930576936aa1fdd94443}{%
+           family={De\bibnamedelima Bruin},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d7833e0ed68665209187a8259c58ecbb}{%
+           family={Tolić},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4e5d4800d1bb9674bbd189e913e5501e}{%
+           family={Kober},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=03b0beb0e0b9b86dfe00ae545618e390}{%
+           family={Palunko},
+           familyi={P\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{4be7230c8131279681af8f8d4b52f765}
+      \strng{fullhash}{73d887f382360ea6f1cdc4f6582514f3}
+      \strng{fullhashraw}{73d887f382360ea6f1cdc4f6582514f3}
+      \strng{bibnamehash}{73d887f382360ea6f1cdc4f6582514f3}
+      \strng{authorbibnamehash}{73d887f382360ea6f1cdc4f6582514f3}
+      \strng{authornamehash}{4be7230c8131279681af8f8d4b52f765}
+      \strng{authorfullhash}{73d887f382360ea6f1cdc4f6582514f3}
+      \strng{authorfullhashraw}{73d887f382360ea6f1cdc4f6582514f3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{title}{Reinforcement Learning for Control: Performance, Stability, and Deep Approximators}
+      \field{volume}{46}
+      \field{year}{2018}
+      \field{pages}{8\bibrangedash 28}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.arcontrol.2018.09.005
+      \endverb
+    \endentry
+    \entry{Brunke2022SafeRL}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=3133d82599ff85906d5de243e93d5720}{%
+           family={Brunke},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=85fc910ef799c7c0d1eb1f038b568ff2}{%
+           family={Greeff},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2181fad1e30fc1c1b7343f97ef410e32}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b801da6fc261ae3e49860b6f72a724ac}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1af27b3e635e110c5c1f29c146a74e8d}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c727b79a674743b18df5f102d1ece9be}{%
+           family={Panerati},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=014ef9082944f38be583f591785b61f0}{%
+           family={Schoellig},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{36ce6fc068189c5073a1f589bc5a22cb}
+      \strng{fullhash}{051b2ae8afaf86bd18c477c9ffb6a0a1}
+      \strng{fullhashraw}{051b2ae8afaf86bd18c477c9ffb6a0a1}
+      \strng{bibnamehash}{051b2ae8afaf86bd18c477c9ffb6a0a1}
+      \strng{authorbibnamehash}{051b2ae8afaf86bd18c477c9ffb6a0a1}
+      \strng{authornamehash}{36ce6fc068189c5073a1f589bc5a22cb}
+      \strng{authorfullhash}{051b2ae8afaf86bd18c477c9ffb6a0a1}
+      \strng{authorfullhashraw}{051b2ae8afaf86bd18c477c9ffb6a0a1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Control, Robotics, and Autonomous Systems}
+      \field{number}{1}
+      \field{title}{Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning}
+      \field{volume}{5}
+      \field{year}{2022}
+      \field{pages}{411\bibrangedash 444}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1146/annurev-control-042920-020211
+      \endverb
+    \endentry
+    \entry{Bertsekas2019RLControl}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e6e74efc3066d23992b24639997959b8}{%
+           family={Bertsekas},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Athena Scientific}%
+      }
+      \strng{namehash}{e6e74efc3066d23992b24639997959b8}
+      \strng{fullhash}{e6e74efc3066d23992b24639997959b8}
+      \strng{fullhashraw}{e6e74efc3066d23992b24639997959b8}
+      \strng{bibnamehash}{e6e74efc3066d23992b24639997959b8}
+      \strng{authorbibnamehash}{e6e74efc3066d23992b24639997959b8}
+      \strng{authornamehash}{e6e74efc3066d23992b24639997959b8}
+      \strng{authorfullhash}{e6e74efc3066d23992b24639997959b8}
+      \strng{authorfullhashraw}{e6e74efc3066d23992b24639997959b8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-88652-939-7}
+      \field{note}{{ISBN:} 978-1-88652-939-7}
+      \field{title}{Reinforcement Learning and Optimal Control}
+      \field{volume}{1}
+      \field{year}{2019}
+    \endentry
+    \entry{Gullapalli1992RLControl}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=695a18d372f378558595493c894c6cc5}{%
+           family={Gullapalli},
+           familyi={G\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Massachusetts Amherst}%
+      }
+      \strng{namehash}{695a18d372f378558595493c894c6cc5}
+      \strng{fullhash}{695a18d372f378558595493c894c6cc5}
+      \strng{fullhashraw}{695a18d372f378558595493c894c6cc5}
+      \strng{bibnamehash}{695a18d372f378558595493c894c6cc5}
+      \strng{authorbibnamehash}{695a18d372f378558595493c894c6cc5}
+      \strng{authornamehash}{695a18d372f378558595493c894c6cc5}
+      \strng{authorfullhash}{695a18d372f378558595493c894c6cc5}
+      \strng{authorfullhashraw}{695a18d372f378558595493c894c6cc5}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reinforcement Learning and Its Application to Control}
+      \field{type}{phdthesis}
+      \field{year}{1992}
+    \endentry
+    \entry{Mannion2016TrafficRL}{incollection}{}{}
+      \name{author}{3}{}{%
+        {{hash=9762e45fb1f56b4dec209b39851ab7e3}{%
+           family={Mannion},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f2f8fb7ed4eece5b506028a4a467ac89}{%
+           family={Duggan},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=eaa71671392ce1536784b3f191a348f5}{%
+           family={Howley},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1ad8fba73471e480d474d7ed1a83563}
+      \strng{fullhash}{c1ad8fba73471e480d474d7ed1a83563}
+      \strng{fullhashraw}{c1ad8fba73471e480d474d7ed1a83563}
+      \strng{bibnamehash}{c1ad8fba73471e480d474d7ed1a83563}
+      \strng{authorbibnamehash}{c1ad8fba73471e480d474d7ed1a83563}
+      \strng{authornamehash}{c1ad8fba73471e480d474d7ed1a83563}
+      \strng{authorfullhash}{c1ad8fba73471e480d474d7ed1a83563}
+      \strng{authorfullhashraw}{c1ad8fba73471e480d474d7ed1a83563}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Autonomic Road Transport Support Systems}
+      \field{title}{An Experimental Review of Reinforcement Learning Algorithms for Adaptive Traffic Signal Control}
+      \field{year}{2016}
+      \field{pages}{47\bibrangedash 66}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/978-3-319-25808-9_4
+      \endverb
+    \endentry
+    \entry{Han2023RLTrafficSurvey}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a3689cff14b613b6de688c1c553aa310}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c8036c92eb308087403a4876f318cba0}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=60f7d0055898ce4de82e85140bb469ef}{%
+           family={Leclercq},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c5e7dd6b1e8046bcca853d1f68f9cf1}
+      \strng{fullhash}{6c5e7dd6b1e8046bcca853d1f68f9cf1}
+      \strng{fullhashraw}{6c5e7dd6b1e8046bcca853d1f68f9cf1}
+      \strng{bibnamehash}{6c5e7dd6b1e8046bcca853d1f68f9cf1}
+      \strng{authorbibnamehash}{6c5e7dd6b1e8046bcca853d1f68f9cf1}
+      \strng{authornamehash}{6c5e7dd6b1e8046bcca853d1f68f9cf1}
+      \strng{authorfullhash}{6c5e7dd6b1e8046bcca853d1f68f9cf1}
+      \strng{authorfullhashraw}{6c5e7dd6b1e8046bcca853d1f68f9cf1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications in Transportation Research}
+      \field{title}{Leveraging Reinforcement Learning for Dynamic Traffic Control: A Survey and Challenges for Field Implementation}
+      \field{volume}{3}
+      \field{year}{2023}
+      \field{pages}{100104}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.commtr.2023.100104
+      \endverb
+    \endentry
+    \entry{Yau2017TrafficSurvey}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=8adcfa9258b4b6277cc98e417f4edbff}{%
+           family={Yau},
+           familyi={Y\bibinitperiod},
+           given={K.-L.\bibnamedelimi A.},
+           giveni={K\bibinithyphendelim L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b7f5a020b172cc8ca75b36a4929ebeec}{%
+           family={Qadir},
+           familyi={Q\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0b57436bd68a3fe94f5a5ef6d0c70f7b}{%
+           family={Khoo},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi L.},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6ae0f9eb7860d68551fe06ad4777450a}{%
+           family={Ling},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=047f02e88adadfce81018f24500065d7}{%
+           family={Komisarczuk},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{12e31630f5fa28c49e9ec9d65a0b240d}
+      \strng{fullhash}{b19f3e4afb67d7d45d539da79ce1a3b5}
+      \strng{fullhashraw}{b19f3e4afb67d7d45d539da79ce1a3b5}
+      \strng{bibnamehash}{b19f3e4afb67d7d45d539da79ce1a3b5}
+      \strng{authorbibnamehash}{b19f3e4afb67d7d45d539da79ce1a3b5}
+      \strng{authornamehash}{12e31630f5fa28c49e9ec9d65a0b240d}
+      \strng{authorfullhash}{b19f3e4afb67d7d45d539da79ce1a3b5}
+      \strng{authorfullhashraw}{b19f3e4afb67d7d45d539da79ce1a3b5}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys (CSUR)}
+      \field{number}{3}
+      \field{title}{A Survey on Reinforcement Learning Models and Algorithms for Traffic Signal Control}
+      \field{volume}{50}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 38}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1145/3068287
+      \endverb
+    \endentry
+    \entry{Bazzan2009MultiagentTraffic}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=db5e2342e5e692ca1c17fd365d6827f3}{%
+           family={Bazzan},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{db5e2342e5e692ca1c17fd365d6827f3}
+      \strng{fullhash}{db5e2342e5e692ca1c17fd365d6827f3}
+      \strng{fullhashraw}{db5e2342e5e692ca1c17fd365d6827f3}
+      \strng{bibnamehash}{db5e2342e5e692ca1c17fd365d6827f3}
+      \strng{authorbibnamehash}{db5e2342e5e692ca1c17fd365d6827f3}
+      \strng{authornamehash}{db5e2342e5e692ca1c17fd365d6827f3}
+      \strng{authorfullhash}{db5e2342e5e692ca1c17fd365d6827f3}
+      \strng{authorfullhashraw}{db5e2342e5e692ca1c17fd365d6827f3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Autonomous Agents and Multi-Agent Systems}
+      \field{number}{3}
+      \field{title}{Opportunities for Multiagent Systems and Multiagent Reinforcement Learning in Traffic Control}
+      \field{volume}{18}
+      \field{year}{2009}
+      \field{pages}{342\bibrangedash 375}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1007/s10458-008-9062-9
+      \endverb
+    \endentry
+    \entry{Rasheed2020DeepRLTraffic}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=8fdeb81a1d61a448f4bf6d03e9accc96}{%
+           family={Rasheed},
+           familyi={R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8adcfa9258b4b6277cc98e417f4edbff}{%
+           family={Yau},
+           familyi={Y\bibinitperiod},
+           given={K.-L.\bibnamedelimi A.},
+           giveni={K\bibinithyphendelim L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b4bf78b816f8637a8fc052e26cc5ebf2}{%
+           family={Noor},
+           familyi={N\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a86e97589af4ebc957e84399c0ba5a1c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a7483b3601b34b88dc50252b068744b5}{%
+           family={Low},
+           familyi={L\bibinitperiod},
+           given={Y.-C.},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae5f9fa5f369f2112aa14e3702d70034}
+      \strng{fullhash}{ec3ea012cdef0392e20c1787a81bd28e}
+      \strng{fullhashraw}{ec3ea012cdef0392e20c1787a81bd28e}
+      \strng{bibnamehash}{ec3ea012cdef0392e20c1787a81bd28e}
+      \strng{authorbibnamehash}{ec3ea012cdef0392e20c1787a81bd28e}
+      \strng{authornamehash}{ae5f9fa5f369f2112aa14e3702d70034}
+      \strng{authorfullhash}{ec3ea012cdef0392e20c1787a81bd28e}
+      \strng{authorfullhashraw}{ec3ea012cdef0392e20c1787a81bd28e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Deep Reinforcement Learning for Traffic Signal Control: A Review}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{208016\bibrangedash 208044}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2020.3034141
+      \endverb
+    \endentry
+    \entry{Riehl2025Reproducibility}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=cee9dc06ce5aaf4b5bb019cfd2d9f7ce}{%
+           family={Riehl},
+           familyi={R\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=183afd85c64c3b9a74f56acf41b2f828}{%
+           family={Kouvelas},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2b899919267ae9a934c5b9ed4415bb5d}{%
+           family={Makridis},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d88b6e2f524933f2c0444701c0ddccda}
+      \strng{fullhash}{d88b6e2f524933f2c0444701c0ddccda}
+      \strng{fullhashraw}{d88b6e2f524933f2c0444701c0ddccda}
+      \strng{bibnamehash}{d88b6e2f524933f2c0444701c0ddccda}
+      \strng{authorbibnamehash}{d88b6e2f524933f2c0444701c0ddccda}
+      \strng{authornamehash}{d88b6e2f524933f2c0444701c0ddccda}
+      \strng{authorfullhash}{d88b6e2f524933f2c0444701c0ddccda}
+      \strng{authorfullhashraw}{d88b6e2f524933f2c0444701c0ddccda}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Transport Research Review}
+      \field{number}{1}
+      \field{title}{Revisiting Reproducibility in Transportation Simulation Studies}
+      \field{volume}{17}
+      \field{year}{2025}
+      \field{pages}{22}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12544-025-00718-9
+      \endverb
+    \endentry
+    \entry{Papageorgiou2003RampOverview}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2e7396ab24fe576e00b1be59a9a5f3a5}{%
+           family={Papageorgiou},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=824d435e8acb65e67ed64ad2f9932168}{%
+           family={Kotsialos},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{739ddcd40af5769114b668a3c1a02845}
+      \strng{fullhash}{739ddcd40af5769114b668a3c1a02845}
+      \strng{fullhashraw}{739ddcd40af5769114b668a3c1a02845}
+      \strng{bibnamehash}{739ddcd40af5769114b668a3c1a02845}
+      \strng{authorbibnamehash}{739ddcd40af5769114b668a3c1a02845}
+      \strng{authornamehash}{739ddcd40af5769114b668a3c1a02845}
+      \strng{authorfullhash}{739ddcd40af5769114b668a3c1a02845}
+      \strng{authorfullhashraw}{739ddcd40af5769114b668a3c1a02845}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Intelligent Transportation Systems}
+      \field{number}{4}
+      \field{title}{Freeway Ramp Metering: An Overview}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{pages}{271\bibrangedash 281}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/TITS.2002.806803
+      \endverb
+    \endentry
+    \entry{Shaaban2016RampReview}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=67a2c896f065891f5ecc6eefe96444c5}{%
+           family={Shaaban},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d0c765cedcaeac8e3631cb2e8d03530e}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=312b2e9418ff438acb868d26fce192f0}{%
+           family={Hamila},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c3bfea0640d7cd89de39b4399655a7c}
+      \strng{fullhash}{7c3bfea0640d7cd89de39b4399655a7c}
+      \strng{fullhashraw}{7c3bfea0640d7cd89de39b4399655a7c}
+      \strng{bibnamehash}{7c3bfea0640d7cd89de39b4399655a7c}
+      \strng{authorbibnamehash}{7c3bfea0640d7cd89de39b4399655a7c}
+      \strng{authornamehash}{7c3bfea0640d7cd89de39b4399655a7c}
+      \strng{authorfullhash}{7c3bfea0640d7cd89de39b4399655a7c}
+      \strng{authorfullhashraw}{7c3bfea0640d7cd89de39b4399655a7c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Literature Review of Advancements in Adaptive Ramp Metering}
+      \field{volume}{83}
+      \field{year}{2016}
+      \field{pages}{203\bibrangedash 211}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.procs.2016.04.117
+      \endverb
+    \endentry
+    \entry{Papageorgiou1991ALINEA}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2e7396ab24fe576e00b1be59a9a5f3a5}{%
+           family={Papageorgiou},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b0c8d11c49d18bcf1c6bc399e1cc5d36}{%
+           family={Hadj-Salem},
+           familyi={H\bibinithyphendelim S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=25dee39bf5ff3116fafd0b9d4cf720da}{%
+           family={Blosseville},
+           familyi={B\bibinitperiod},
+           given={J.-M.},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c49f0e0eca136b5b9b1816bfea51e01}
+      \strng{fullhash}{3c49f0e0eca136b5b9b1816bfea51e01}
+      \strng{fullhashraw}{3c49f0e0eca136b5b9b1816bfea51e01}
+      \strng{bibnamehash}{3c49f0e0eca136b5b9b1816bfea51e01}
+      \strng{authorbibnamehash}{3c49f0e0eca136b5b9b1816bfea51e01}
+      \strng{authornamehash}{3c49f0e0eca136b5b9b1816bfea51e01}
+      \strng{authorfullhash}{3c49f0e0eca136b5b9b1816bfea51e01}
+      \strng{authorfullhashraw}{3c49f0e0eca136b5b9b1816bfea51e01}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Research Record}
+      \field{number}{1}
+      \field{title}{ALINEA: A Local Feedback Control Law for On-Ramp Metering}
+      \field{volume}{1320}
+      \field{year}{1991}
+      \field{pages}{58\bibrangedash 67}
+      \range{pages}{10}
+    \endentry
+    \entry{Diakaki1994METALINE}{report}{}{}
+      \name{author}{2}{}{%
+        {{hash=0598d26a28e9134fcb6aae2e7371b5ac}{%
+           family={Diakaki},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2e7396ab24fe576e00b1be59a9a5f3a5}{%
+           family={Papageorgiou},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Dynamic Systems Simulation Laboratory, Technical University of Crete}%
+      }
+      \strng{namehash}{7ba67d1eb921df7971ea299d5dbee57f}
+      \strng{fullhash}{7ba67d1eb921df7971ea299d5dbee57f}
+      \strng{fullhashraw}{7ba67d1eb921df7971ea299d5dbee57f}
+      \strng{bibnamehash}{7ba67d1eb921df7971ea299d5dbee57f}
+      \strng{authorbibnamehash}{7ba67d1eb921df7971ea299d5dbee57f}
+      \strng{authornamehash}{7ba67d1eb921df7971ea299d5dbee57f}
+      \strng{authorfullhash}{7ba67d1eb921df7971ea299d5dbee57f}
+      \strng{authorfullhashraw}{7ba67d1eb921df7971ea299d5dbee57f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{2}
+      \field{title}{Design and Simulation Test of Coordinated Ramp Metering Control (METALINE) for A10-West in Amsterdam}
+      \field{type}{Internal Report}
+      \field{year}{1994}
+    \endentry
+    \entry{Paesani1992SWARM}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=7735236073b8d5d21407807b2975fa0e}{%
+           family={Paesani},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=699add0aa082f7443fa1c5167cc316c4}{%
+           family={Head},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8ccb12a7ea2000ad20e74c02adb73c06}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1c6ba9df94c49109fff6ac11d033ce2f}{%
+           family={Schwabe},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{94f933ce30f27e0330b8c21279bac5c3}
+      \strng{fullhash}{cdc2e0f1a08d6d3093f13a5842452549}
+      \strng{fullhashraw}{cdc2e0f1a08d6d3093f13a5842452549}
+      \strng{bibnamehash}{cdc2e0f1a08d6d3093f13a5842452549}
+      \strng{authorbibnamehash}{cdc2e0f1a08d6d3093f13a5842452549}
+      \strng{authornamehash}{94f933ce30f27e0330b8c21279bac5c3}
+      \strng{authorfullhash}{cdc2e0f1a08d6d3093f13a5842452549}
+      \strng{authorfullhashraw}{cdc2e0f1a08d6d3093f13a5842452549}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Transportation Research Record}
+      \field{title}{SWARM: System-Wide Adaptive Ramp Metering—The Architecture and Algorithms}
+      \field{volume}{1365}
+      \field{year}{1992}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{Papamichail2010HERO}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=f520f4cc6897a435d9ce3c8fbe7a51d9}{%
+           family={Papamichail},
+           familyi={P\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2e7396ab24fe576e00b1be59a9a5f3a5}{%
+           family={Papageorgiou},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5b67c33561c14fa626d20267de341bee}{%
+           family={Vong},
+           familyi={V\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=68ec91b85b80c3ab405fcccbfef9ef91}{%
+           family={Gaffney},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e051f1f0d68784312e9fc8f1f4ebc5a}
+      \strng{fullhash}{b4ace4474f50f3e344144d30d43cbbe2}
+      \strng{fullhashraw}{b4ace4474f50f3e344144d30d43cbbe2}
+      \strng{bibnamehash}{b4ace4474f50f3e344144d30d43cbbe2}
+      \strng{authorbibnamehash}{b4ace4474f50f3e344144d30d43cbbe2}
+      \strng{authornamehash}{4e051f1f0d68784312e9fc8f1f4ebc5a}
+      \strng{authorfullhash}{b4ace4474f50f3e344144d30d43cbbe2}
+      \strng{authorfullhashraw}{b4ace4474f50f3e344144d30d43cbbe2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Transportation Research Board Annual Meeting}
+      \field{note}{Presented at the 89th Transportation Research Board Annual Meeting}
+      \field{title}{HERO Coordinated Ramp Metering Implemented at the Monash Freeway}
+      \field{year}{2010}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

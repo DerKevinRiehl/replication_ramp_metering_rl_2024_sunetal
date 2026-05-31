@@ -1,0 +1,10 @@
+numpy
+casadi
+sym_metanet
+gymnasium
+tqdm
+pandas
+matplotlib
+torch
+scipy
+csnlp
