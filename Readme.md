@@ -1,7 +1,7 @@
 # Replication study of Combined MPC-DRL Framework for Traffic Control [Sun et al. 2024]
 
 ## Authors
-Alessandro Bertelli [1,2,3], Kevin Riehl [3]
+Alessandro Bertelli [1,2,3], Kevin Riehl [3], Qiaosen Li [3], Anastasios Kouvelas [3], Michail A. Makridis [3]
 
 **[1]** Politecnico di Milano, Milan, Italy.
 
